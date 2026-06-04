@@ -48,7 +48,7 @@ If you find our work or code useful in your research, please consider citing our
 @article{wscsnet2026,
   title={Weakly Supervised Cell Instance Segmentation via Collaborative Learning Framework},
   author={Your Name and Your Advisor and Others},
-  journal={Biomedical Signal Processing and Control},
+  journal={ },
   year={2026},
   publisher={Elsevier}
 }
