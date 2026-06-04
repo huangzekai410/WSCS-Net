@@ -54,5 +54,5 @@ If you find our work or code useful in your research, please consider citing our
 }
 
 
-
-For any questions regarding the paper or the upcoming code release, please feel free to contact: zekaih0410@gmail.com
+## ✉️ Contact
+For any questions regarding the paper or the upcoming code release, please feel free to contact: zekaih0410@gmail.com.
