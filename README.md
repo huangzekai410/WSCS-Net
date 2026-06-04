@@ -2,6 +2,9 @@
 Official implementation of WSCS-Net: A Weakly Supervised Cell Segmentation Network Based on a Cooperative Learning Framework.
 
 
+## ✉️ Contact
+For any questions regarding the paper or the upcoming code release, please feel free to contact: zekaih0410@gmail.com.
+
 
 # WSCS-Net: Weakly Supervised Cell Instance Segmentation via Collaborative Learning
 
@@ -53,6 +56,3 @@ If you find our work or code useful in your research, please consider citing our
   publisher={Elsevier}
 }
 
-
-## ✉️ Contact
-For any questions regarding the paper or the upcoming code release, please feel free to contact: zekaih0410@gmail.com.
